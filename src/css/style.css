@@ -94,7 +94,7 @@ body {
 #date {
   font-size: 1.3em;
   font-weight: 600;
-  color: var(--accent-color);
+  color: #fabc2e;
   display: grid;
   grid-column: 1/-1;
   text-align: center;
